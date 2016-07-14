@@ -1,3 +1,5 @@
+"use strict";
+
 if (typeof(OCR) === "undefined") {
 	OCR = {};
 }
